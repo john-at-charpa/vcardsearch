@@ -1,4 +1,17 @@
 ## vcardsearch
+
+lbdb is all kinds of broken for vCard parsing and Contacts.app (macOS)
+access. This can be used with mutt query command to do roughly the
+function. 
+
+## requires
+
+* perl
+* Text::vCard::Addressbook
+* utf-8
+* a vCard file
+
+## usage
 ```
    Search a vCard format file and return data formatted for mutt
 
