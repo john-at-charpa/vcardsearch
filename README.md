@@ -30,3 +30,12 @@ function.
 ```
 set query_command="vcardsearch.pl -f $HOME/.mutt/vCards.vcf -c -s '%s'"
 ```
+## Export vCards
+
+You can use the provided exportvcards.scpt to quickly export all
+Contacts to Documents/vCards.vcf.
+
+Usage:
+```
+osascript exportvcards.scpt
+```
