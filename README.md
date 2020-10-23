@@ -33,7 +33,7 @@ set query_command="vcardsearch.pl -f $HOME/.mutt/vCards.vcf -c -s '%s'"
 ## Export vCards
 
 You can use the provided exportvcards.scpt to quickly export all
-Contacts to Documents/vCards.vcf.
+Contacts to Documents/vCards.vcf. Thanks to SPiFF for the fixes.
 
 Usage:
 ```
