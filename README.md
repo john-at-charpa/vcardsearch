@@ -1,8 +1,8 @@
 ## vcardsearch
 
 lbdb is all kinds of broken for vCard parsing and Contacts.app (macOS)
-access. This can be used with mutt query command to do roughly the
-function. 
+access. This can be used with the mutt query command to do roughly the
+same function. 
 
 ## requires
 
