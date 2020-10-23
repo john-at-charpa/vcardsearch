@@ -1,6 +1,6 @@
 
    Search a vCard format file and return data formatted for mutt
-
+   
    usage: Documents/src/vcardsearch.pl [-h] [-c] [-f vcf file] [-s search term]
      -h        : this help message
      -c        : check for CJK names and return LASTFIRST
