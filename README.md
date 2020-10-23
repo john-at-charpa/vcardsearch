@@ -1,4 +1,5 @@
-## vcardsearch
+# vcardsearch
+```
 
    Search a vCard format file and return data formatted for mutt
 
@@ -12,4 +13,4 @@
    vcardsearch.pl -f /home/ca/.mutt/vcards.vcf -s guenther
    vcardsearch:    1 match(es)
    procmail4life@openbsd.org      Philip Guenther
-
+```
